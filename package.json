@@ -1,11 +1,13 @@
 {
   "name": "@mtdev/gatsby-theme-terminal",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A terminal theme for Gatsby",
   "author": "Marco Tisi",
   "homepage": "https://github.com/marcotisi/gatsby-theme-terminal",
   "keywords": [
     "gatsby",
+    "gatsby-plugin",
+    "gatsby-theme",
     "theme",
     "terminal"
   ],
