@@ -1,0 +1,33 @@
+.label {
+  font-weight: 900;
+  display: flex;
+  align-items: center;
+  white-space: nowrap;
+}
+
+.label > span {
+  margin-right: 0.5rem;
+}
+
+.prompt {
+  background: none;
+  border: none;
+  color: var(--text-color);
+  font-family: var(--font-family);
+  outline: none;
+  -webkit-appearance: none;
+  flex-grow: 100;
+  min-width: 0;
+}
+
+.promptPrefix {
+  color: var(--prompt-prefix-color)
+}
+
+.promptText {
+  color: var(--prompt-text-color)
+}
+
+.promptSuffix {
+  color: var(--prompt-suffix-color)
+}

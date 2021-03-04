@@ -1,0 +1,6 @@
+.github
+.cache
+.vscode
+.idea
+public
+node_modules
